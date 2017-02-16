@@ -5,7 +5,7 @@
 # Uses the lxml library to scrape the Packt Daily Free Technical eBook page, 
 # then uses the twitter library to post a tweet with the link and title to the 
 # book. Sends an email via the smtplib library to confirm success.
-#
+# this is a change by Chris Williams 
 # Designed to be scheduled/run daily via crontab.
 ###############################################################################
 # Created: 2017.02.07 by David M. Jones
